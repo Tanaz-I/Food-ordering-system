@@ -1,0 +1,20 @@
+1 peelamedu
+11.0351 77.0282
+2 gandhipuram
+11.0172 76.9566
+3 singanallur
+10.9912 77.0288
+4 race course 
+11.0179 76.9875
+5 rs puram
+11.0101 76.968
+6 ukkadam
+11.0097 76.9618
+7 saravanampatti
+11.0704 76.9951
+8 saibaba colony
+11.029 76.9747
+9 ramnagar
+11.0168 76.9559
+11 neelambur
+11.012 77.05 

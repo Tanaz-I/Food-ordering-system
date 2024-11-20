@@ -1,0 +1,19 @@
+1 Junior Kuppana
+5.8 1
+2 Haribhavanam 
+7 2
+3 Dindigul Thalappakatti
+6.9 3
+4 Valarmathi mess
+3.2 4
+5 Cockraco
+8.4 5
+6 HMR Hotel
+5.9 6
+7 Aasife biriyani
+6.35 7
+8 Balle Balle
+7.83 8
+9 Alankar
+8.2 916 
+

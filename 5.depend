@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1683545744 source:c:\users\admin\onedrive\documents\5\online food ordering system 7\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<Windows.h>
+	<iomanip>
+	<unistd.h>
+	"admin.h"
+	"bill.h"
+
+1683478680 c:\users\admin\onedrive\documents\5\online food ordering system 7\admin.h
+	"person.h"
+	"restaurant.h"
+
+1683487454 c:\users\admin\onedrive\documents\5\online food ordering system 7\person.h
+	<string>
+
+1683622350 c:\users\admin\onedrive\documents\5\online food ordering system 7\restaurant.h
+	"menu.h"
+	"location.h"
+
+1683478883 c:\users\admin\onedrive\documents\5\online food ordering system 7\menu.h
+	"food.h"
+
+1683622337 c:\users\admin\onedrive\documents\5\online food ordering system 7\food.h
+	<string>
+
+1683545977 c:\users\admin\onedrive\documents\5\online food ordering system 7\location.h
+	<string>
+
+1683622651 source:c:\users\admin\onedrive\documents\5\online food ordering system 7\memfuncs.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<Windows.h>
+	"admin.h"
+	<unistd.h>
+	"bill.h"
+
+1683622326 c:\users\admin\onedrive\documents\5\online food ordering system 7\bill.h
+

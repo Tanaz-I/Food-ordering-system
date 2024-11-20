@@ -1,0 +1,18 @@
+1  Boomerang
+5 1
+2  Glaicier Park
+6.3 2
+3  Desserts and Savouries
+6 3
+4  The Chocolate Room
+5.7 4
+5  Amote
+7 5
+6  Bon Bon
+6.95 6
+7  Ibaco
+8.3 7
+8  Apupa
+6.4 8
+9  Infusions
+7.45 9

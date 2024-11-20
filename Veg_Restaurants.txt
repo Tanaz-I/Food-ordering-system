@@ -1,0 +1,20 @@
+1   Aryabhavan
+9 1
+2     Shree Anandhaas
+6.2 2
+3     RHR Hotel
+3 3
+4     A2B
+5 4
+5     Sree Annapoorna
+9 5
+6     Hotel Aryaas 
+5.4 6
+7     Sri Saravana Bhavan
+3.5 7
+8     Yari
+7.2 8
+9 yyy
+4.2 9
+12 xxx
+4 11
